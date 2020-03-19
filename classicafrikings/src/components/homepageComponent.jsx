@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-
-const logo = require('../images/CLASSIC AFRIKINGS LOGO.png.png');
+import logo from '../images/CLASSIC AFRIKINGS LOGO.png.png'
 
 class Home extends Component{
   state = {imgurl: 0};
